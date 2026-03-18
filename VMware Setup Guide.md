@@ -253,23 +253,23 @@ For your cybersecurity home lab (Month 4), use this architecture:
 
 ```
 ┌─────────────────────────────────────────────┐
-│              Your Physical Network           │
-│              (Home WiFi/Ethernet)             │
+│              Your Physical Network          │
+│              (Home WiFi/Ethernet)           │
 └──────────────┬──────────────────────────────┘
                │ Bridged (VMnet0)
                │
        ┌───────┴───────┐
-       │   pfSense VM   │    ← Virtual firewall/router
-       │   (Gateway)     │
+       │   pfSense VM  │    ← Virtual firewall/router
+       │   (Gateway)   │
        └───────┬───────┘
                │ Host-Only (VMnet1) - "Lab Network"
                │
     ┌──────────┼──────────┐
     │          │          │
-┌───┴───┐ ┌───┴───┐ ┌───┴───┐
-│ Kali  │ │Ubuntu │ │Windows│
-│Attack │ │Target │ │Server │
-└───────┘ └───────┘ └───────┘
+┌───┴───┐  ┌───┴───┐  ┌───┴───┐
+│ Kali  │  │Ubuntu │  │Windows│
+│Attack │  │Target │  │Server │
+└───────┘  └───────┘  └───────┘
   All on VMnet1 (Host-Only)
 ```
 
@@ -318,7 +318,7 @@ Kali-Attacker
   ├── "Fresh Install - No Tools"
   ├── "Base Tools Installed (nmap, burp, etc.)"
   ├── "Month 5 - Pre-Vuln-Scan"
-  │   └── "Month 5 - Post-Vuln-Scan"
+  │     └── "Month 5 - Post-Vuln-Scan"
   └── "Month 6 - CTF Ready"
 ```
 
