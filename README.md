@@ -1,4 +1,4 @@
-## Hey, I'm Yan 👋
+# Hey, I'm Yan 👋
 
 **Aspiring Cybersecurity Professional | Singapore**
 
@@ -49,31 +49,31 @@ I'm on a 9-month mission to break into cybersecurity — documenting every step,
 
 ## 🧰 Tools & Technologies
 
-**Operating Systems**&ensp;: Kali Linux · Ubuntu Server · Windows Server
+**Operating Systems:**&ensp; Kali Linux · Ubuntu Server · Windows Server
 
-**Networking**&ensp;: Wireshark · tcpdump · Nmap · pfSense
+**Networking:**&ensp; Wireshark · tcpdump · Nmap · pfSense
 
-**Security & SIEM**&ensp;: Splunk · Nessus · OWASP ZAP · Metasploit
+**Security & SIEM:**&ensp; Splunk · Nessus · OWASP ZAP · Metasploit
 
-**Cloud**&ensp;: AWS (IAM, EC2, CloudTrail, GuardDuty)
+**Cloud:**&ensp; AWS (IAM, EC2, CloudTrail, GuardDuty)
 
-**Programming**&ensp;: Bash · Python
+**Programming:**&ensp; Bash · Python
 
-**Frameworks**&ensp;: NIST CSF · ISO 27001 · PDPA · MAS TRM · Zero Trust
+**Frameworks:**&ensp; NIST CSF · ISO 27001 · PDPA · MAS TRM · Zero Trust
 
 ---
 
 ## 📝 Learning Journal
 
-I document my journey on GitHub as [u/yan-cyberlab](https://github.com/Yan-Cyberlab/Yan-Cyberlab) — writeups, lessons learned, CTF walkthroughs, and honest progress updates.
+I document my journey right here on GitHub — writeups, lessons learned, CTF walkthroughs, and honest progress updates across every project repo.
 
 ---
 
 ## 📫 Let's Connect
 
-- **GitHub:** [u/yan-cyberlab](https://github.com/Yan-Cyberlab/Yan-Cyberlab)
+- **GitHub:** [Yan-Cyberlab](https://github.com/Yan-Cyberlab/Yan-Cyberlab)
 - **LinkedIn:** *(coming soon)*
-- **Email:** *limyan.ly31@gmail.com*
+- **Email:** limyan.ly31@gmail.com
 
 ---
 
