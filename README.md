@@ -73,7 +73,7 @@ I document my journey on Reddit as [u/yan-cyberlab](https://www.reddit.com/user/
 
 - **Reddit:** [u/yan-cyberlab](https://www.reddit.com/user/yan-cyberlab)
 - **LinkedIn:** *(coming soon)*
-- **Email:** *(your email here)*
+- **Email:** *limyan.ly31@gmail.com*
 
 ---
 
