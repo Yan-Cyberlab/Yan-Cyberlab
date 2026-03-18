@@ -49,17 +49,17 @@ I'm on a 9-month mission to break into cybersecurity — documenting every step,
 
 ## 🧰 Tools & Technologies
 
-**Operating Systems**&ensp; Kali Linux · Ubuntu Server · Windows Server
+**Operating Systems**&ensp;: Kali Linux · Ubuntu Server · Windows Server
 
-**Networking**&ensp; Wireshark · tcpdump · Nmap · pfSense
+**Networking**&ensp;: Wireshark · tcpdump · Nmap · pfSense
 
-**Security & SIEM**&ensp; Splunk · Nessus · OWASP ZAP · Metasploit
+**Security & SIEM**&ensp;: Splunk · Nessus · OWASP ZAP · Metasploit
 
-**Cloud**&ensp; AWS (IAM, EC2, CloudTrail, GuardDuty)
+**Cloud**&ensp;: AWS (IAM, EC2, CloudTrail, GuardDuty)
 
-**Programming**&ensp; Bash · Python
+**Programming**&ensp;: Bash · Python
 
-**Frameworks**&ensp; NIST CSF · ISO 27001 · PDPA · MAS TRM · Zero Trust
+**Frameworks**&ensp;: NIST CSF · ISO 27001 · PDPA · MAS TRM · Zero Trust
 
 ---
 
