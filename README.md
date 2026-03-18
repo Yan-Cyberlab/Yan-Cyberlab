@@ -65,13 +65,13 @@ I'm on a 9-month mission to break into cybersecurity — documenting every step,
 
 ## 📝 Learning Journal
 
-I document my journey on Reddit as [u/yan-cyberlab](https://github.com/Yan-Cyberlab/Yan-Cyberlab) — writeups, lessons learned, CTF walkthroughs, and honest progress updates.
+I document my journey on GitHub as [u/yan-cyberlab](https://github.com/Yan-Cyberlab/Yan-Cyberlab) — writeups, lessons learned, CTF walkthroughs, and honest progress updates.
 
 ---
 
 ## 📫 Let's Connect
 
-- **Reddit:** [u/yan-cyberlab](https://github.com/Yan-Cyberlab/Yan-Cyberlab)
+- **GitHub:** [u/yan-cyberlab](https://github.com/Yan-Cyberlab/Yan-Cyberlab)
 - **LinkedIn:** *(coming soon)*
 - **Email:** *limyan.ly31@gmail.com*
 
